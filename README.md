@@ -19,4 +19,4 @@ A simple batch file to combine two images one next to the other.
 3- Put your images to be combined in the folders IMAGES_A & IMAGES_B. Image quantity MUST be the equal.
 
 4- Answer how many images to create: 
-for example to create 1 combined image, you drop an pic into IMAGES_A and one in IMAGES_B, then answer 1 (since it will be one image combining both).
+for example to create 1 combined image, you drop a pic into IMAGES_A and one in IMAGES_B, then answer 1 (since it will be one image combining both).
